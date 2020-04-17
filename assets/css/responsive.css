@@ -1,0 +1,82 @@
+@media only screen and (max-width: 768px){
+	.box-img-news{
+		padding:0 15px !important;
+		background: transparent !important;
+	}
+	.card-news .col-md-8{
+		margin-top: 15px !important
+	}
+	.container{
+		width: 96% !important
+	}
+	.top{
+		margin-top: 50px
+	}
+	.top-about{
+		margin-top: 100px
+	}
+	.title-slide{
+		font-size: 14px
+	}
+	.title-section{
+		height: unset;
+	}
+	#box-swiper{
+		padding: 15px !important
+	}
+	#swiper-utama{
+		height: 220px
+	}
+	.swiper-slide{
+		height: 180px !important;
+	}
+	.swiper-slide button{
+		margin-top: 5px
+	}
+	.tp-slide{
+		padding:15px 0 !important
+	}
+	.news-slide{
+		display: none;
+	}
+	.ads{
+		width: 100%;
+		height: auto;
+	}
+	.box-img-det{
+		height: 200px
+	}
+	.header-news{
+		text-align: center;
+	}
+	.title-detail{
+		font-size: 25px;
+	}
+	.box-profile{
+		text-align: center;
+	}
+	.hide-mob{
+		display: none;
+	}
+	.show-mob{
+		display: inline-block;
+	}
+	.nav-mob{
+		z-index: 999;
+		padding: 3px 5px
+	}
+	.btn-mob{
+		background: transparent;
+		font-size: 25px
+	}
+	.pad-mob-15{
+		padding-left: 15px !important;
+		padding-right: 15px !important;
+	}
+	.profile{
+		margin-top: 15px
+	}
+	.btn-read{
+		margin-top: unset;
+	}
+}

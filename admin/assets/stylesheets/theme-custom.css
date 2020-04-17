@@ -1,0 +1,56 @@
+/* Add here all your CSS customizations */
+/* Add here all your CSS customizations */
+@font-face{
+	font-family: 'lato';
+	src: url(../vendor/fonts/Lato-Medium.ttf) format(truetype);
+}
+*{
+	font-family: 'lato', 'helvetica', 'arial';
+}
+.panel-body .logo img{
+	height: 125px;
+	margin-bottom: 10px;
+}
+.body-sign{
+	width: 450px;
+}
+.page-header h2{
+	border-color: #68c3a3;
+}
+html.no-overflowscrolling .nano > .nano-pane > .nano-slider{
+	background-color: #68c3a3;
+}
+section.panel{
+	cursor: pointer;
+}
+.body-sign .panel-sign .panel-title-sign .title{
+	background-color: #68c3a3;
+}
+.body-sign .panel-sign .panel-body{
+	border-top-color: #68c3a3;
+}
+ul.nav-main > li.nav-active > a {
+    box-shadow: 3px 0 0 #68c3a3 inset;
+}
+.sidebar-left .sidebar-header .sidebar-toggle:hover i{
+	color: #68c3a3;
+}
+.btn-success{
+	background-color: #68c3a3 !important;
+	border-color: #65bb9d !important;
+}
+.btn-success:hover{
+	background-color: #65bb9d !important;
+}
+.panel img.img-circle{
+	border: 3px solid #dddddd !important;
+}
+.panel-featured-success{
+	border-color: #68c3a3 !important;
+}
+.panel-featured-success .panel-body{
+	padding: 30px;
+}
+td{
+	font-size: 15px !important;
+}
